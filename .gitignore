@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# Project
+target/
+
+# OS
+*.DS_Store
